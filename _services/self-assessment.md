@@ -8,7 +8,7 @@ layout: service
 
 You are already past the introductory state of SecDevOps and would like to see how your company scores compared towards the industry?
 
-## SecDevOps questionnaire/test
+## SecDevOps questionnaire
 
 Take about 10 minutes and fill out our self assessment questionnaire at <a href="https://s.surveyanyplace.com/scratchitea3" target="_blank">survey</a>
 

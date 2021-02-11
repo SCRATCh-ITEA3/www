@@ -7,6 +7,6 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Serif - A Jekyll Business Theme.
+# SCRATCh - SecDevOps
 
 We, a group of 16 companies, have been investigating the challenges of DevOps with a focus on SecDevOps for over three years. If you need a helping hand, we are here for you.

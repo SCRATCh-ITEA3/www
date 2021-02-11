@@ -1,5 +1,5 @@
 ---
-title: Jekyll Serif Theme
+title: SCRATCh SecDevOps
 layout: home
 description: SCRATCh - because starting SecDevOps from scratch is just too difficult.
 intro_image: "images/illustrations/pointing.svg"

@@ -10,4 +10,6 @@ You are already past the introductory state of SecDevOps and would like to see h
 
 ## SecDevOps questionnaire
 
-Take about 10 minutes and fill out our self assessment questionnaire at https://s.surveyanyplace.com/scratchitea3 - we will share your final score and are available to discuss detailed results with you in person.
+Take about 10 minutes and fill out our self assessment questionnaire at [survey]({{ https://s.surveyanyplace.com/ }}{% link scratchitea3 %})
+
+ - we will share your final score and are available to discuss detailed results with you in person.

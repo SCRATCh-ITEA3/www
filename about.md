@@ -10,18 +10,16 @@ the SCRATCh service offering is derived from an ITEA3 project called SCRATCh. 16
 ## Legal imprint
 
 
-Impressum
+   consider it GmbH
+   Ingolstädter Str. 1-3
+   D-28219 Bremen
+   info@consider-it.de
 
-consider it GmbH
-Ingolstädter Str. 1-3
-D-28219 Bremen
-info@consider-it.de
+   Geschäftsführer: Christopher Nigischer, Till Witt
+   Register: Handelsregister
+   Registernummer: HRB 26725
+   Registergericht: Amts­ge­richt Bre­men
+   Umsatzsteuer-ID: DE 276034969
 
-Geschäftsführer: Christopher Nigischer, Till Witt
-Register: Handelsregister
-Registernummer: HRB 26725
-Registergericht: Amts­ge­richt Bre­men
-Umsatzsteuer-ID: DE 276034969
-
-Tel.: +49 40 / 22 86 89 111
-E-Mail: admin@consider-it.de
+   Tel.: +49 40 / 22 86 89 111
+   E-Mail: admin@consider-it.de

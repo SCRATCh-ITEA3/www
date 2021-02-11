@@ -1,7 +1,7 @@
-baseurl: ''
+baseurl: '/www'
 exclude: ['README.md']
 permalink: pretty
-title: 'Jekyll Serif'
+title: 'SCRATCh Service'
 
 google_analytics_id: ""
 homepage:
@@ -16,7 +16,7 @@ footer:
 seo:
   meta_og_title: "Jekyll Serif Theme"
   meta_og_type: "website"
-  meta_og_url: "https://jekyll-serif-theme.netlify.app"
+  meta_og_url: "https://scratch-itea3.github.io/www/"
   meta_og_image: "https://raw.githubusercontent.com/zerostaticthemes/jekyll-serif-theme/master/screenshots/tn.png"
   meta_og_description: "Jekyll Serif is a modern business theme for Hugo. It contains content types for the archetypical business website. The theme is fully responsive, blazing fast and artfully illustrated."
   meta_twitter_card: "summary"

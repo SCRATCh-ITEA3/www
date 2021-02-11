@@ -11,7 +11,7 @@ logo:
   desktop: "images/logo/secDevOps.png"
   desktop_height: "36px"
 footer:
-  copyright_text: 'Free Jekyll theme by <a class="zerostatic" href="https://www.zerostatic.io">www.zerostatic.io</a>'
+  copyright_text: 'based on the <a href="https://www.itea3.org">ITEA3</> Project <a href="https://www.scratch-itea3.eu">SCRATCh</> - <a class="zerostatic" href="https://www.zerostatic.io">zerostatic.io</a>'
 
 seo:
   meta_og_title: "SCRATCh SecDevOps"

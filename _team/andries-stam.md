@@ -1,10 +1,10 @@
 ---
-title: "Sage Kirk"
+title: "Andries Stam"
 date: 2018-11-19T10:47:58+10:00
 draft: false
-image: "images/team/sage-kirk-485982-unsplash.jpg"
-jobtitle: "Accounting Partner"
-linkedinurl: "https://www.linkedin.com/example2"
+image: "images/team/andries-stam.jpg"
+jobtitle: "Managing Directors Almende & PM of SCRATCh"
+linkedinurl: "https://www.linkedin.com/in/andriesstam"
 promoted: true
 weight: 2
 layout: team

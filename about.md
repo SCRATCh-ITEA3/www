@@ -5,7 +5,9 @@ layout: page
 bodyClass: page-about
 ---
 
-the SCRATCh service offering is derived from an ITEA3 project called SCRATCh. 16 companies started a 3 year project to gather input and investigate the challenges of DevOps with a special focus on security. We provide one face to the customer using the SCRATCh brand, and have knowledge from SMEs to large scale companies in the background.
+the SCRATCh service offering is derived from an <a href="https://itea3.org" target="_blank">ITEA3</a> project called <a href="https://www.scratch-itea3.eug" target="_blank">SCRATCh</a>. 16 companies started a 3 year project to gather input and investigate the challenges of DevOps with a special focus on security. We provide one face to the customer using the SCRATCh brand, and have knowledge from SMEs to large scale companies in the background.
+
+
 
 ## Legal imprint
 

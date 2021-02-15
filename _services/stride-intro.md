@@ -23,3 +23,7 @@ It is used in conjunction with a model of the target system that can be construc
 
 ## We offer
 a quick intro on the topic within 60 minutes. If you are as hooked on the topic as we are happy to arrange a STRIDE workshop with your team about your current model and show the power of the approach.
+
+
+## Contact us
+Drop us a short <a href="mailto:witt@consider-it.de?subject=SCRATCh stride&body=Dear Till,%0D%0A%0D%0AI am interested to hear more about your STRIDE offer. Please get in touch with me.%0D%0A%0D%0ABest regards, ">email</a> and we'll get in touch with you-

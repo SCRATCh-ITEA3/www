@@ -7,8 +7,8 @@ layout: service
 ---
 This module answerrs the question: "what can go wrong with the system?".
 
-## STRIDE is ...
-... model of threats developed at Microsoft for identifying computer security threats and was initially created as part of the process of threat modeling. Today it is often used by security experts to help answer the question "what can go wrong in this system we're working on?" It provides a mnemonic for security threats in six categories.
+## STRIDE is
+model of threats developed at Microsoft for identifying computer security threats and was initially created as part of the process of threat modeling. Today it is often used by security experts to help answer the question "what can go wrong in this system we're working on?" It provides a mnemonic for security threats in six categories.
 
 | **Threat** 	           | **Desired property** |
 | ---------------------- | -------------------- |
